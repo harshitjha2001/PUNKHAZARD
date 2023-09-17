@@ -7,19 +7,23 @@ PUNK HAZARD IS AN INNOVATIVE TELEGRAM-BASED CHATBOT DESIGNED TO STREAMLINE THE B
 TELEGRAM : https://t.me/punk_hazard_bot
 ## Screenshots
 
-- Login screen authentication
+- STARTING THE BOT
+
 ![START](https://github.com/harshitjha2001/PUNKHAZARD/assets/85453454/ff7a3732-17e1-4655-bba7-c9e00eb2da08)
 
+-
 
+![05027100-265e-461c-a252-17a8529c0f00](https://github.com/harshitjha2001/PUNKHAZARD/assets/85453454/29a51502-1275-4d9b-8838-b214738621fc)
 
+-
+
+![bcab7082-b8e3-43f5-a659-75a133965823](https://github.com/harshitjha2001/PUNKHAZARD/assets/85453454/e44421cc-cb7b-43a6-a777-20c4dd573431)
 
 ## Features
 
-- User authentication and login system.
-- Product recommendations based on user's last viewed item.
-- Hot products section showcasing popular items.
-- Additional recommendations based on user preferences.
-- Recommendations based on user similarity.
-- User-friendly interface with product images and details.
+- User-Friendly Interface: Intuitive and easy-to-navigate Telegram interface.
+- Quick Listings: Enables users to easily create and manage listings.
+- Matching: Swiftly connects buyers with sellers for resource exchange.
+- Resource Categories: Organizes items by category, simplifying search and discovery.
 
 
